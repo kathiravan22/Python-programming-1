@@ -1,0 +1,16 @@
+a=2
+b=4
+c=6
+d=8
+e=10
+f=20
+g=30
+h=40
+i=50
+j=60
+x=a+b,f/e
+y=f*e
+z=h/a
+print(x)
+print(y)
+print(int(z))
