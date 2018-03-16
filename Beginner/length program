@@ -1,0 +1,2 @@
+stringvar="programmer"
+print(len(stringvar))
